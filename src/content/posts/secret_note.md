@@ -1,5 +1,5 @@
 ---
-title: [Codegate CTF 2025 Preliminary] Secret Note Writeup
+title: "[Codegate CTF 2025 Preliminary] Secret Note Writeup"
 published: 2025-05-10
 description: ''
 image: ''
