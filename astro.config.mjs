@@ -20,7 +20,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://hyper-spectrum.github.io/",
+	site: "https://hyper-spectrum.github.io",
 	base: "/Hyper-Spectrum",
 	trailingSlash: "always",
 	integrations: [
